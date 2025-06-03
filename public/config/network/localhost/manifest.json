@@ -4,8 +4,8 @@
     "iconName": "delta-green.png",
     "terminalID": "Y56",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
+        "userId": "AWalker",
+        "password": "AWalker",
         "userName": "anonymous"
     },
     "initialHistory": {
